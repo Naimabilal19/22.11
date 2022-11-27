@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp__Sum referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__Sub referenced in function _main
+main.obj : error LNK2019: unresolved external symbol __imp__fooInDll referenced in function _main
+C:\Users\naima\Desktop\Project1\Debug\Project2.exe : fatal error LNK1120: 3 unresolved externals
